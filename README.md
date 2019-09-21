@@ -17,6 +17,8 @@
 |Videopac|Yombo|Yombo|[Core Videopac](https://github.com/yomboprime/VideoPac-ZXDOS/raw/master/COREn.ZX2)|[Core de Videopac para ZXDOS](http://www.forofpga.es/viewtopic.php?f=167&t=24)||
 |ZX Spectrum|McLeod|Avillena|[Core Spectrum](http://www.forofpga.es/download/file.php?id=333)|[SPECTRUM.ZX2 Experimental](http://www.forofpga.es/viewtopic.php?f=9&t=128)||
 |Zx80yuno V3|Bodo Wenzel|Jepalza,Avlixa|[COREn_zx80yunoV3](https://github.com/zxdos/binaries/blob/master/COREn_zx80yunoV3.ZX2)||Incluye: mapeo joysticks a teclas, redefinición del mapeo con F1 y F2.   F12: soft-reset. Ctrl-Alt-Bacspace: hard-reset.  Carga de juegos por EAR.  Bugs: ligero desplazamiento en las primeras líneas.|
+|Zx80yuno beta2|Bodo Wenzel|Jepalza,Avlixa|[zx80yuno_tape_beta2](https://github.com/zxdos/binaries/blob/master/zx80yuno_tape_beta2.ZX2)||Incluye: la misma versión que ZX80yUno V3 con carga de ficheros .p desde SD.  ESC: menu OSD. F5 = Play/pause tape. F6 = Stop tape. F7 = Eject tape (reset memory tape). Bugs: el sincronismo del OSD no está bien conseguido.|
+
 
 
 # Lista de cores arcade de ZX-DOS portados de ZX-UNO
