@@ -16,10 +16,10 @@
 |Sega Master System|Quest|Neuro, Distware, Spark, Fmosquera, Avlixa|[SMS_26-08-2018](http://www.forofpga.es/download/file.php?id=74) [SMS_Memorias_ISSI](https://github.com/zxdos/binaries/blob/master/COREN_smsV2_ISSI.ZX2) [SMS_Memorias_Alliance](https://github.com/zxdos/binaries/blob/master/COREn_sms_v2e_Alliance.zx2)|[Sega Master System](http://www.forofpga.es/viewforum.php?f=166)|Según el tipo de memoria de la placa funciona mejor una versión u otra, si no funciona una probad las otras|
 |Vectrex|Neuro|Neuro|[Core Vectrex](http://www.forofpga.es/download/file.php?id=174)|[Core beta de Vectrex](http://www.forofpga.es/viewforum.php?f=171)||
 |Videopac|Yombo|Yombo|[Core Videopac](https://github.com/yomboprime/VideoPac-ZXDOS/raw/master/COREn.ZX2)|[Core de Videopac para ZXDOS](http://www.forofpga.es/viewtopic.php?f=167&t=24)||
+|ZX Next V3.01.05|Next Team|Avlixa|[Core ZX Next](https://github.com/zxdos/binaries/blob/master/zxnext_zxdos_issue2.ZX2)|[Core Spectrum Next](http://www.forofpga.es/viewtopic.php?f=8&t=349)||
 |ZX Spectrum|McLeod|Avillena|[Core Spectrum](http://www.forofpga.es/download/file.php?id=333)|[SPECTRUM.ZX2 Experimental](http://www.forofpga.es/viewtopic.php?f=9&t=128)||
 |Zx80yuno V3|Bodo Wenzel|Jepalza,Avlixa|[COREn_zx80yunoV3](https://github.com/zxdos/binaries/blob/master/COREn_zx80yunoV3.ZX2)||Incluye: mapeo joysticks a teclas, redefinición del mapeo con F1 y F2.   F12: soft-reset. Ctrl-Alt-Bacspace: hard-reset.  Carga de juegos por EAR.  Bugs: ligero desplazamiento en las primeras líneas.|
 |Zx80yuno beta2|Bodo Wenzel|Jepalza,Avlixa|[zx80yuno_tape_beta2](https://github.com/zxdos/binaries/blob/master/zx80yuno_tape_beta2.ZX2)||Incluye: la misma versión que ZX80yUno V3 con carga de ficheros .p desde SD.  ESC: menu OSD. F5 = Play/pause tape. F6 = Stop tape. F7 = Eject tape (reset memory tape). Bugs: el sincronismo del OSD no está bien conseguido.|
-
 
 
 # Lista de cores arcade de ZX-DOS portados de ZX-UNO
