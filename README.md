@@ -20,7 +20,7 @@
 |ZX Spectrum|McLeod|Avillena|[Core Spectrum](http://www.forofpga.es/download/file.php?id=333)|[SPECTRUM.ZX2 Experimental](http://www.forofpga.es/viewtopic.php?f=9&t=128)||
 |Zx80yuno V3|Bodo Wenzel|Jepalza,Avlixa|[COREn_zx80yunoV3](https://github.com/zxdos/binaries/blob/master/COREn_zx80yunoV3.ZX2)||Incluye: mapeo joysticks a teclas, redefinición del mapeo con F1 y F2.   F12: soft-reset. Ctrl-Alt-Bacspace: hard-reset.  Carga de juegos por EAR.  Bugs: ligero desplazamiento en las primeras líneas.|
 |Zx80yuno beta2|Bodo Wenzel|Jepalza,Avlixa|[zx80yuno_tape_beta2](https://github.com/zxdos/binaries/blob/master/zx80yuno_tape_beta2.ZX2)||Incluye: la misma versión que ZX80yUno V3 con carga de ficheros .p desde SD.  ESC: menu OSD. F5 = Play/pause tape. F6 = Stop tape. F7 = Eject tape (reset memory tape). Bugs: el sincronismo del OSD no está bien conseguido.|
-|PC/XT|Nicolae Dumitrache|Neuro,DistWave,carlos_r|[PCXT_zxdos_2020_05_16](PCXT_zxdos_lx16_next186soc_2020_05_16.ZX2)|[http://www.forofpga.es/viewtopic.php?f=37&p=1418#p1418](http://www.forofpga.es/viewtopic.php?f=37&p=1418#p1418)
+|PC/XT|Nicolae Dumitrache|Neuro,DistWave,carlos_r|[PCXT_zxdos_2020_05_16](https://www.dropbox.com/s/8al89ivhi8o2cy8/PCXT_zxdos_lx16_next186soc_2020_05_16.ZX2?dl=1)|[http://www.forofpga.es/viewtopic.php?f=37&p=1418#p1418](http://www.forofpga.es/viewtopic.php?f=37&p=1418#p1418)
 
 # Lista de cores arcade de ZX-DOS portados de ZX-UNO
 Para mas información visitar el [foro ZXDOS](http://www.forofpga.es/viewtopic.php?f=39&t=83)
