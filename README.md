@@ -38,6 +38,7 @@ Para mas información visitar el [foro ZXDOS](http://www.forofpga.es/viewtopic.p
 |Eyes|-|neuro_999|Avillena|V|[eyeszacb](https://mega.nz/#F!RshkRazb!eiF3rjTcgcaLZqw0AgfgHg)|http://www.zxuno.com/forum/viewtopic.php?f=60&t=1870&start=50#p22380|
 |Galaxian|?|Quest|Avillena|V|[galaxian](https://mega.nz/#F!RshkRazb!eiF3rjTcgcaLZqw0AgfgHg)|http://www.zxuno.com/forum/viewtopic.php?f=60&t=1870&start=50#p22370|
 |Gorkans|-|neuro_999|Avillena|V|[gorkans](https://mega.nz/#F!RshkRazb!eiF3rjTcgcaLZqw0AgfgHg)|http://www.zxuno.com/forum/viewtopic.php?f=60&t=1870&start=50#p22381|
+|jt1942 jt1943 jtcom jtgng jtgun jtvulgus|jotego|-|neuro_999|V|https://github.com/neurorulez/jt_gng/tree/master/releases/zxdos||
 |Jumpshot|-|neuro_999|Avillena|V|[jumpshot](https://mega.nz/#F!RshkRazb!eiF3rjTcgcaLZqw0AgfgHg)|http://www.zxuno.com/forum/viewtopic.php?f=60&t=1870&start=50#p22376|
 |Lizard Wizard|-|neuro_999|Avillena|V|[lizwiz](https://mega.nz/#F!RshkRazb!eiF3rjTcgcaLZqw0AgfgHg)|http://www.zxuno.com/forum/viewtopic.php?f=60&t=1870&start=50#p22382|
 |Lucky Today|-|neuro_999|Avillena|V|[luctoday](https://mega.nz/#F!RshkRazb!eiF3rjTcgcaLZqw0AgfgHg)|http://www.zxuno.com/forum/viewtopic.php?f=60&t=1870&start=50#p22392|
@@ -66,3 +67,4 @@ Para mas información visitar el [foro ZXDOS](http://www.forofpga.es/viewtopic.p
 |Victory|-|neuro_999|Avillena|V|[victoryc](https://mega.nz/#F!RshkRazb!eiF3rjTcgcaLZqw0AgfgHg)||
 |War of Bugs|-|neuro_999|Avillena|V|[warofbug](https://mega.nz/#F!RshkRazb!eiF3rjTcgcaLZqw0AgfgHg)|http://www.zxuno.com/forum/viewtopic.php?f=60&t=1870&start=50#p22390|
 |Woodpecker|-|neuro_999|Avillena|V|[woodpeck](https://mega.nz/#F!RshkRazb!eiF3rjTcgcaLZqw0AgfgHg)|http://www.zxuno.com/forum/viewtopic.php?f=60&t=1870&start=50#p22396|
+
